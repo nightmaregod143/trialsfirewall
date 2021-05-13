@@ -297,7 +297,7 @@ elif [ "$action" == "list" ]; then
   tail -n +5 data.txt | cat -n
 elif [ "$action" == "update" ]; then
   rm ./d2firewall.sh
-  wget -q https://raw.githubusercontent.com/ShoulinMonks/Trials/main/d2firewall.sh -O ./d2firewall.sh
+  wget -q https://raw.githubusercontent.com/nightmaregod143/trialsfirewall/main/d2firewall.sh -O ./d2firewall.sh
   chmod +x ./d2firewall.sh
   echo -e "${GREEN}Script update complete."
   echo -e "Please rerun the initial setup to avoid any issues.${NC}"
