@@ -1,7 +1,7 @@
 Destiny 2/SDR Matchmaking Firewall
 Download
 Clone repo or run this command:
-wget -q https://raw.githubusercontent.com/ShoulinMonks/Trials/main/d2firewall.sh -O ./d2firewall.sh
+wget -q https://raw.githubusercontent.com/nightmaregod143/trialsfirewall/main/d2firewall.sh -O ./d2firewall.sh
 
 Usage
 Setup: initial setup
